@@ -3,7 +3,7 @@ Modèle de prédiction de la consommation énergétique dans les bâtiments inte
 
 Données de travail pour le projet.
 Source : https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
-Fichier au format xlx
+Fichier au format xlx.
 Le fichier comporte les données de température et d'humidité de 8 pièces d'une maison ainsi que les températures et humidité externe.
 Composition de la maison :
 - Cuisine
